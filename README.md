@@ -1,0 +1,2 @@
+# hugo-serverz
+Hugo Server
